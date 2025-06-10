@@ -17,10 +17,11 @@ A simple, themed React web app showcasing local restaurants in a card-based layo
 
 ---
 
-## 🖼 Screenshot
+## 🖼 Screenshot & GIF
 
 > Simple version of the app with all core features implemented:
 
 ![Screenshot of Community Restaurants App](./screenshot.png)
+![App demo](./screenrecord.gif)
 
 
